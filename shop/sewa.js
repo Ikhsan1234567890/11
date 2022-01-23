@@ -17,7 +17,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6285255115854?text=bang+sewa+bot+nya+brapa+bang
 
 
 NOTE : 
