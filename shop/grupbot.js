@@ -3,7 +3,7 @@ const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
 1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
+_https://chat.whatsapp.com/BzH1fV1IrZp1ZTIYpYybuI_
 2. *Alphabot Support 2*
 _https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
 3. *Alphabot Support 3*
